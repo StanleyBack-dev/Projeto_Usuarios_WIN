@@ -17,6 +17,6 @@
 # Os usuários são cadastrados com CPF e Nome Completo.
 # Existe uma função dentro do código em que após a máquina ser desligada, todas os usuários locais, exceto o usuário administrador, seram desativadas.
 
-### Nesta versão eu pude melhorar algumas funções, adicionar novas funções e ajustar alguns Bugs dentro do código. Estou trabalhando em novas funcionalidades e mais alguns ajustes, mas quero deixar registrado as etapas do desenvolvimento deste mini projeto.
+### Nessa versão eu implementei algumas novas funções de consultar a conta cadastrada pelos 4 primeiros dígitos do CPF ( Conta do Usuário ). Um novo menu para exportar as informações de Usuários para um arquivo TXT em sua área de trabalho local (DeskTop), com a opção de exportar os dados de todas as contas Habilitadas ou exportar os dados de uma conta Habilitada específica pelo o CPF informado pelo o Usuário na hora da exportação. Alterei algumas novas funções de Design também, dentro do sistema inteiro. Pretendo implementar mais algumas novas funcionalidades para chegar até versão final que eu desejo.
 
-### VERSÃO 1.0.1
+### VERSÃO 1.0.2
