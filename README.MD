@@ -17,6 +17,6 @@
 # Os usuários são cadastrados com CPF e Nome Completo.
 # Existe uma função dentro do código em que após a máquina ser desligada, todas os usuários locais, exceto o usuário administrador, seram desativadas.
 
-### ESSA VERSÃO DO CÓDIGO É A PRIMEIRA, AINDA ESTOU TRABALHANDO NELE PARA MELHORAR ALGUMAS FUNÇÕES E CONCERTAR ALGUNS BUGS DENTRO DO CÓDIGO, COMO UM BUG QUE EXISTE NA PARTE DO MENU 3 DE EDITAR CONTAS CADASTRADAS. 
+### Nesta versão eu pude melhorar algumas funções, adicionar novas funções e ajustar alguns Bugs dentro do código. Estou trabalhando em novas funcionalidades e mais alguns ajustes, mas quero deixar registrado as etapas do desenvolvimento deste mini projeto.
 
-### VERSÃO 1.0.0
+### VERSÃO 1.0.1
