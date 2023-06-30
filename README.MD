@@ -4,7 +4,9 @@
 2 - Criar Contas
 3 - Editar Contas
 4 - Desabilitar Contas
-5 - Visualizar Contas Cadastradas
+5 - Habilitar Contas
+6 - Visualizar Contas Cadastradas
+7 - Exportar informações de Contas para Arquivos TXT
 0 - Sair
 
 # Existem funções dentro do código Power Shell sobre as regras de negócio que me foram solicitadas, como:
@@ -16,7 +18,9 @@
 
 # Os usuários são cadastrados com CPF e Nome Completo.
 # Existe uma função dentro do código em que após a máquina ser desligada, todas os usuários locais, exceto o usuário administrador, seram desativadas.
+# Existe uma função que consulta os dados do usuário somente com os 4 primeiros digitos de seu CPF para facilitar e da velocidade ao sistema e interação.
 
-### Nessa versão eu implementei algumas novas funções de consultar a conta cadastrada pelos 4 primeiros dígitos do CPF ( Conta do Usuário ). Um novo menu para exportar as informações de Usuários para um arquivo TXT em sua área de trabalho local (DeskTop), com a opção de exportar os dados de todas as contas Habilitadas ou exportar os dados de uma conta Habilitada específica pelo o CPF informado pelo o Usuário na hora da exportação. Alterei algumas novas funções de Design também, dentro do sistema inteiro. Pretendo implementar mais algumas novas funcionalidades para chegar até versão final que eu desejo.
+### FIZ ESTE PROJETO DURANTE O MEU ESTÁGIO NA JUSTIÇA FEDERAL DE GOIÁS COM O INTUITO DE FACILITAR E AUTOMATIZAR TAREFAS ROTINEIRAS QUE DEMANDAVAM TEMPO. 
+PROJETO FOI ME PASSADO POR UM ADMINISTRADOR DE REDES E CONSEGUI DESENVOLVELO DURANTE 2 SEMANAS. EXPERIÊNCIA MUITO BOA E EMPOLGANTE, JÁ HAVIA PROGRAMADO EM LINGUAGEM C E ACHEI PARECIDO COM A LINGUAGEM UTILIZADA NO POWER SHELL. 
 
-### VERSÃO 1.0.2
+### VERSÃO FINAL 
